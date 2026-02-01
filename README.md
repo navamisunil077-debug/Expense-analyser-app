@@ -59,7 +59,7 @@ Displays expense locations using latitude and longitude
 
 Helps users track where expenses are incurred
 
-Chatbot Component (New Feature)
+Chatbot Component 
 
 The app includes a Chatbot component that allows users to interact with the system in a conversational way.
 
@@ -94,21 +94,13 @@ Authentication is verified using TinyDB
 
 Successful login redirects the user to the main dashboard
 
-3. Expense Entry
-
-User selects category using ListPicker
-
-Enters amount, description, and location (latitude & longitude)
-
-Expense data is saved in TinyDB and Google Sheets
-
-4. Location Tracking
+3 Location Tracking
 
 Entered latitude and longitude are displayed on the Map
 
 Helps visualize where expenses occur
 
-5. Monthly Expense Calculation
+4. Monthly Expense Calculation
 
 Expenses are filtered based on selected month
 
@@ -116,7 +108,7 @@ Category-wise and total monthly expenses are calculated
 
 Results are displayed for analysis
 
-6. Chatbot Interaction
+5. Chatbot Interaction
 
 User asks questions related to expenses
 
